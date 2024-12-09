@@ -6,7 +6,7 @@ A new Flutter project.
 ## Preview
 
 <video controls width="300">
-  <source src="media/preview.mp4" type="video/mp4">
+  <source src="F:\Firebase" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
