@@ -3,6 +3,12 @@
 A new Flutter project.
 
 ## Getting Started
+## Preview
+
+<video controls width="300">
+  <source src="media/preview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 This project is a starting point for a Flutter application.
 
